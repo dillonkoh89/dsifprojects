@@ -38,4 +38,4 @@ For this problem,, my proposed soution will be two-fold:
 Using Pushshift's API, I will collect posts from the two subreddits - Parenting and Relationship Advice.
 I will then use NLP to train a classifier on which subreddit a given post came from. This is a binary classification problem.
 
-### For the individual project README files, you can view them in the respective project folder
+**For the individual project README files, you can view them in the respective project folder**
